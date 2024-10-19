@@ -4,15 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7b624e5b-3bd8-48fb-bb63-5024cb5a317a" name="Changes" comment="init">
-      <change afterPath="$PROJECT_DIR$/hw2/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hw11/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/hw1/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hw11/task1.py" beforeDir="false" afterPath="$PROJECT_DIR$/hw1/task1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hw11/task2.py" beforeDir="false" afterPath="$PROJECT_DIR$/hw1/task2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hw11/task3.py" beforeDir="false" afterPath="$PROJECT_DIR$/hw1/task3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hw11/task4.py" beforeDir="false" afterPath="$PROJECT_DIR$/hw1/task4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hw11/task5.py" beforeDir="false" afterPath="$PROJECT_DIR$/hw1/task5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hw11/task6.py" beforeDir="false" afterPath="$PROJECT_DIR$/hw1/task6.py" afterDir="false" />
+    <list default="true" id="7b624e5b-3bd8-48fb-bb63-5024cb5a317a" name="Changes" comment="hw2">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,34 +22,34 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "marselsol"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;marselsol&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/marselsol/mfti-home-work.git",
-    "accountId": "be1f0169-c070-40ce-9b4a-5ccde4a4c342"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/marselsol/mfti-home-work.git&quot;,
+    &quot;accountId&quot;: &quot;be1f0169-c070-40ce-9b4a-5ccde4a4c342&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2mwFA1ZEYrSLX118T1meEdnNUEn" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.lesson1.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.lesson1.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\marse\PycharmProjects\mfti-home-work\hw11" />
@@ -115,11 +108,20 @@
       <option name="project" value="LOCAL" />
       <updated>1727979837077</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="hw2">
+      <option name="closed" value="true" />
+      <created>1727980393009</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1727980393009</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init" />
-    <option name="LAST_COMMIT_MESSAGE" value="init" />
+    <MESSAGE value="hw2" />
+    <option name="LAST_COMMIT_MESSAGE" value="hw2" />
   </component>
 </project>
