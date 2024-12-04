@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7b624e5b-3bd8-48fb-bb63-5024cb5a317a" name="Changes" comment="hw5 algo">
-      <change afterPath="$PROJECT_DIR$/algo-course/hw6.py" afterDir="false" />
+    <list default="true" id="7b624e5b-3bd8-48fb-bb63-5024cb5a317a" name="Changes" comment="hw10 algo">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,8 +49,10 @@
   &quot;keyToString&quot;: {
     &quot;Python.__init__.executor&quot;: &quot;Run&quot;,
     &quot;Python.hw1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.hw10.executor&quot;: &quot;Run&quot;,
     &quot;Python.hw2.executor&quot;: &quot;Run&quot;,
     &quot;Python.hw6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.hw8.executor&quot;: &quot;Run&quot;,
     &quot;Python.lesson1.executor&quot;: &quot;Run&quot;,
     &quot;Python.main (1).executor&quot;: &quot;Run&quot;,
     &quot;Python.main (2).executor&quot;: &quot;Run&quot;,
@@ -60,19 +61,21 @@
     &quot;Python.task1.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/marse/PycharmProjects/mfti-home-work/test&quot;
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/marse/PycharmProjects/mfti-home-work/lms&quot;
   }
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\marse\PycharmProjects\mfti-home-work\lms" />
       <recent name="C:\Users\marse\PycharmProjects\mfti-home-work\test" />
       <recent name="C:\Users\marse\PycharmProjects\mfti-home-work\hw3" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\marse\PycharmProjects\mfti-home-work\lms" />
       <recent name="C:\Users\marse\PycharmProjects\mfti-home-work\hw11" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.hw6">
+  <component name="RunManager" selected="Python.hw11">
     <configuration name="__init__" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="mfti-home-work" />
       <option name="ENV_FILES" value="" />
@@ -82,11 +85,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lms" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test/__init__.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lms/__init__.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -95,7 +98,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="hw5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="hw10" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="mfti-home-work" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -108,7 +111,29 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\marse\PycharmProjects\mfti-home-work\algo-course\hw5.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algo-course/hw10.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="hw11" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="mfti-home-work" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/algo-course" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algo-course/hw11.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -139,7 +164,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="main (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="hw8" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="mfti-home-work" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -148,33 +173,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/hw6" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/algo-course" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hw6/main.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="prog" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="mfti-home-work" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test/prog.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algo-course/hw8.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -185,11 +188,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.hw6" />
-        <item itemvalue="Python.hw5" />
-        <item itemvalue="Python.main (2)" />
-        <item itemvalue="Python.prog" />
+        <item itemvalue="Python.hw11" />
+        <item itemvalue="Python.hw10" />
         <item itemvalue="Python.__init__" />
+        <item itemvalue="Python.hw8" />
+        <item itemvalue="Python.hw6" />
       </list>
     </recent_temporary>
   </component>
@@ -265,7 +268,23 @@
       <option name="project" value="LOCAL" />
       <updated>1731130599597</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="hw8 algo">
+      <option name="closed" value="true" />
+      <created>1732218170650</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1732218170650</updated>
+    </task>
+    <task id="LOCAL-00009" summary="hw10 algo">
+      <option name="closed" value="true" />
+      <created>1732732225697</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1732732225697</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -276,6 +295,8 @@
     <MESSAGE value="hw4" />
     <MESSAGE value="hw6" />
     <MESSAGE value="hw5 algo" />
-    <option name="LAST_COMMIT_MESSAGE" value="hw5 algo" />
+    <MESSAGE value="hw8 algo" />
+    <MESSAGE value="hw10 algo" />
+    <option name="LAST_COMMIT_MESSAGE" value="hw10 algo" />
   </component>
 </project>
