@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7b624e5b-3bd8-48fb-bb63-5024cb5a317a" name="Changes" comment="hw10 algo">
+    <list default="true" id="7b624e5b-3bd8-48fb-bb63-5024cb5a317a" name="Changes" comment="hw11 algo">
+      <change afterPath="$PROJECT_DIR$/algo-course/gray.bmp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,25 +46,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.__init__.executor&quot;: &quot;Run&quot;,
-    &quot;Python.hw1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.hw10.executor&quot;: &quot;Run&quot;,
-    &quot;Python.hw2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.hw6.executor&quot;: &quot;Run&quot;,
-    &quot;Python.hw8.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lesson1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.main (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.main (2).executor&quot;: &quot;Run&quot;,
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;Python.prog.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task1.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/marse/PycharmProjects/mfti-home-work/lms&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.__init__.executor": "Run",
+    "Python.hw1.executor": "Run",
+    "Python.hw10.executor": "Run",
+    "Python.hw11.executor": "Run",
+    "Python.hw2.executor": "Run",
+    "Python.hw6.executor": "Run",
+    "Python.hw8.executor": "Run",
+    "Python.lesson1.executor": "Run",
+    "Python.main (1).executor": "Run",
+    "Python.main (2).executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.prog.executor": "Run",
+    "Python.task1.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/marse/PycharmProjects/mfti-home-work/lms"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\marse\PycharmProjects\mfti-home-work\lms" />
@@ -75,7 +77,7 @@
       <recent name="C:\Users\marse\PycharmProjects\mfti-home-work\hw11" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.hw11">
+  <component name="RunManager" selected="Python.hw12">
     <configuration name="__init__" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="mfti-home-work" />
       <option name="ENV_FILES" value="" />
@@ -142,7 +144,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="hw6" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="hw12" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="mfti-home-work" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -155,7 +157,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algo-course/hw6.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algo-course/hw12.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -188,11 +190,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.hw12" />
         <item itemvalue="Python.hw11" />
         <item itemvalue="Python.hw10" />
         <item itemvalue="Python.__init__" />
         <item itemvalue="Python.hw8" />
-        <item itemvalue="Python.hw6" />
       </list>
     </recent_temporary>
   </component>
@@ -284,7 +286,15 @@
       <option name="project" value="LOCAL" />
       <updated>1732732225697</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="hw11 algo">
+      <option name="closed" value="true" />
+      <created>1733335733304</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1733335733304</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -297,6 +307,7 @@
     <MESSAGE value="hw5 algo" />
     <MESSAGE value="hw8 algo" />
     <MESSAGE value="hw10 algo" />
-    <option name="LAST_COMMIT_MESSAGE" value="hw10 algo" />
+    <MESSAGE value="hw11 algo" />
+    <option name="LAST_COMMIT_MESSAGE" value="hw11 algo" />
   </component>
 </project>
