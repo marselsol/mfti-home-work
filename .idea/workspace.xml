@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7b624e5b-3bd8-48fb-bb63-5024cb5a317a" name="Changes" comment="hw11 algo">
+    <list default="true" id="7b624e5b-3bd8-48fb-bb63-5024cb5a317a" name="Changes" comment="hw12 algo">
       <change afterPath="$PROJECT_DIR$/algo-course/gray.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algo-course/hw12.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,6 +53,7 @@
     "Python.hw1.executor": "Run",
     "Python.hw10.executor": "Run",
     "Python.hw11.executor": "Run",
+    "Python.hw12.executor": "Run",
     "Python.hw2.executor": "Run",
     "Python.hw6.executor": "Run",
     "Python.hw8.executor": "Run",
@@ -73,6 +75,7 @@
       <recent name="C:\Users\marse\PycharmProjects\mfti-home-work\hw3" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\marse\PycharmProjects\mfti-home-work\algo-course" />
       <recent name="C:\Users\marse\PycharmProjects\mfti-home-work\lms" />
       <recent name="C:\Users\marse\PycharmProjects\mfti-home-work\hw11" />
     </key>
@@ -294,7 +297,15 @@
       <option name="project" value="LOCAL" />
       <updated>1733335733304</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="hw12 algo">
+      <option name="closed" value="true" />
+      <created>1733336574389</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1733336574389</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -308,6 +319,7 @@
     <MESSAGE value="hw8 algo" />
     <MESSAGE value="hw10 algo" />
     <MESSAGE value="hw11 algo" />
-    <option name="LAST_COMMIT_MESSAGE" value="hw11 algo" />
+    <MESSAGE value="hw12 algo" />
+    <option name="LAST_COMMIT_MESSAGE" value="hw12 algo" />
   </component>
 </project>
